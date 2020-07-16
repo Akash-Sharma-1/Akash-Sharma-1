@@ -1,5 +1,7 @@
 ### Welcome to my Github Profile 👋
-
+<a href="https://www.akashsharma.live/">
+  <img align="left" alt="'Website" width="22px" src="https://image.flaticon.com/icons/svg/2301/2301129.svg" />
+</a>
 <a href="https://twitter.com/AkashTheGreat_1">
   <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg">
 </a>
@@ -12,9 +14,7 @@
 <a href="mailto:akashthegreatlegend@gmail.com">
   <img align="left" alt="'Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
 </a>
-<a href="https://www.akashsharma.live/">
-  <img align="left" alt="'Website" width="22px" src="https://image.flaticon.com/icons/svg/2301/2301129.svg" />
-</a>
+
 
 
 <br />
