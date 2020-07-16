@@ -20,7 +20,7 @@
 <br />
 <br />
 
-Hi, I'm Akash 😉, a programmer, a developer and a tech-enthusiast. 👨🏻‍💻 I absolutely adore programming and developing new things ⚙🛠. I'm passionate about solving problems through code🚀🚀 helping the world🌎 and making the lifes of people 👨‍👨‍👧 around me easier!
+Hi, I'm Akash 😉, a programmer, a developer and a tech-enthusiast. 👨🏻‍💻 I absolutely adore programming and developing new things ⚙. I'm passionate about solving problems through code🚀helping the world🌎 and making the lifes of people 👨‍👨‍👧 around me easier!
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
@@ -29,7 +29,7 @@ Hi, I'm Akash 😉, a programmer, a developer and a tech-enthusiast. 👨🏻‍
 - 🔭 I’m currently working on few personal projects and web applications.
 - 🌱 I’m currently learning data engineering and working on large scalable systems/ cloud based systems.
 - 👯 I’m looking to collaborate on some great research projects based in ML, DL and software engineering.
-
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 **About me**
 - 💼 I’m currently pursuing my undergraduate studies in Computer Science.
 - 🤔 My interests spans across Deep Learning, Machine Learning, Application Development, Semantic Web for now and I'm in pursuit of exploring more domains.
