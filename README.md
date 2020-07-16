@@ -30,7 +30,7 @@ Hi, I'm Akash 😉, a programmer, a developer and a tech-enthusiast. 👨🏻‍
 **Current Status Quo**
 
 - 🔭 I’m currently working on few personal projects and contributing to few open source organizations - [CGAL/cgal](https://github.com/CGAL/cgal) and [RDFLib/rdflib](https://github.com/RDFLib/rdflib).
-- 🌱 I’m currently learning data engineering and designing large scalable systems/ cloud-based systems.
+- 🌱 I’m currently learning data engineering and designing large, high-performant scalable systems/ cloud-based systems.
 - 👯 I’m looking to collaborate on some great research projects based in ML, DL and software engineering.
 
 **About me**
