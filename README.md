@@ -6,15 +6,16 @@
 <a href="https://www.linkedin.com/in/akash-sharma-246b67165">
   <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" />
 </a>
-<a href="akashthegreatlegend@gmail.com">
+<a href="https://t.me/AkashTheGreat">
+  <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="mailto:akashthegreatlegend@gmail.com">
   <img align="left" alt="'Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
 </a>
-<a href="https://leetcode.com/lovelybuggies/">
-  <img align="left" alt="LeetCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" />
+<a href="https://www.akashsharma.live/">
+  <img align="left" alt="'Website" width="22px" src="https://image.flaticon.com/icons/svg/2301/2301129.svg" />
 </a>
-<a href="https://www.kaggle.com/ninolau">
-  <img align="left" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
-</a>
+
 
 <br />
 <br />
