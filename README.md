@@ -33,5 +33,5 @@ Hi, I'm Akash 😉, a programmer 👨🏻‍💻 from India. I'm an open-source 
 - 📫 Please email via ninomyemail@gmail.com to reach me.
 - 👀 See my [Curriculum Vitae](https://drive.google.com/file/d/1mr_yoVcBn6QolFWAOXSJzxQYvO7ShjNu/view?ths=true) to get more info.
 
-![Akash's github stats](https://github-readme-stats.vercel.app/api?username=Akash-Sharma-1&show_icons=true&hide_border=true)
+![Akash's github stats](https://github-readme-stats.vercel.app/api?username=Akash-Sharma-1&show_icons=true&hide_border=true&hide=["stars","issues"])
 
