@@ -38,7 +38,3 @@ Hi, I'm Akash 😉, a programmer, a developer and a tech-enthusiast. 👨🏻‍
 - 😄 Pronouns: He/Him/His
 - 👀 Check out my [Website](https://www.akashsharma.live/) and my [Curriculum Vitae](https://www.akashsharma.live/resume/Akash_Sharma_One_Page_CV.pdf) to get more info.
 - ⚡ Fun fact: My Github Profile has more information about me than my Insta, FB, LinkedIn & other social media combined 😂
-
-
-
-![Akash's github stats](https://github-readme-stats.vercel.app/api?username=Akash-Sharma-1&show_icons=true&hide_border=true&hide=["issues","stars"])
