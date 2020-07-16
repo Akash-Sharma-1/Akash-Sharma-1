@@ -1,7 +1,7 @@
 ### Welcome to my Github Profile 👋
 
 <a href="https://twitter.com/AkashTheGreat_1">
-  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simpleicons.org/icons/twitter.svg">
+  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg">
 </a>
 <a href="https://www.linkedin.com/in/akash-sharma-246b67165">
   <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" />
