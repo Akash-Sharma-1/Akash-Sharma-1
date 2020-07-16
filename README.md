@@ -34,7 +34,7 @@ Hi, I'm Akash 😉, a programmer, a developer and a tech-enthusiast. 👨🏻‍
 - 👯 I’m looking to collaborate on some great research projects based in ML, DL and software engineering.
 
 **About me**
-- 💼 I’m currently pursuing my undergraduate studies in Computer Science.
+- 💼 I’m pursuing my undergraduate studies in Computer Science.
 - 🤔 My interests spans across Deep Learning, Machine Learning, Application Development, Semantic Web for now and I'm in pursuit of exploring more domains.
 - 💬 Ask me about anything, happy to help !
 - 📫 Reach me via twitter, telegram, mail ...
