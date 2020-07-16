@@ -20,22 +20,24 @@
 <br />
 <br />
 
-Hi, I'm Akash 😉, a programmer, a developer and a tech-enthusiast. 👨🏻‍💻 I absolutely adore programming and developing new things ⚙🛠. I'm passionate about problem solving through code🚀🚀 helping the world🌎 and the community surrounding me 👨‍👨‍👧!
+Hi, I'm Akash 😉, a programmer, a developer and a tech-enthusiast. 👨🏻‍💻 I absolutely adore programming and developing new things ⚙🛠. I'm passionate about solving problems through code🚀🚀 helping the world🌎 and making the lifes of people 👨‍👨‍👧 around me easier!
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
 **Current Status Quo**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 💼 I’m pursuing my undergraduate studies in Computer Science.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- 👀 See my [Curriculum Vitae](https://www.akashsharma.live/resume/Akash_Sharma_One_Page_CV.pdf) to get more info.
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on few personal projects and web applications.
+- 🌱 I’m currently learning data engineering and working on large scalable systems/ cloud based systems.
+- 👯 I’m looking to collaborate on some great research projects based in ML, DL and software engineering.
+
+**About me**
+- 💼 I’m currently pursuing my undergraduate studies in Computer Science.
+- 🤔 My interests spans across Deep Learning, Machine Learning, Application Development, Semantic Web for now and I'm in pursuit of exploring more domains.
+- 💬 Ask me about anything, happy to help !
+- 📫 Reach me via twitter, telegram, mail ...
+- 😄 Pronouns: He/Him/His
+- 👀 Check out my [Website](https://www.akashsharma.live/) and my [Curriculum Vitae](https://www.akashsharma.live/resume/Akash_Sharma_One_Page_CV.pdf) to get more info.
+- ⚡ Fun fact: My Github Profile has more information about me than my Insta, FB, LinkedIn & other social media combined 😂
 
 
 
