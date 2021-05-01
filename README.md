@@ -31,7 +31,7 @@ Hi, I'm Akash 😉, a programmer, a developer and a tech-enthusiast. 👨🏻‍
 
 - 🔭 I’m currently working on few personal projects and contributing to few open source organizations - [CGAL/cgal](https://github.com/CGAL/cgal) and [RDFLib/rdflib](https://github.com/RDFLib/rdflib). Also, started writing blogs recently, [Check them out !](https://akash-sharma-1.github.io/blog/) 
 - 🌱 I’m currently learning data engineering and designing large, high-performant scalable systems/ cloud-based systems.
-- 👯 I’m looking to collaborate on some great research projects based in ML, DL and software engineering.
+- 👯 I’m looking to collaborate on some great research projects based in ML, DL, NLP and software engineering.
 
 **About me**
 - 💼 I’m pursuing my undergraduate studies in Computer Science.
