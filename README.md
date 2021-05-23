@@ -31,7 +31,7 @@ Hi, I'm Akash 👋, a programmer, a developer and a CS research-enthusiast. 👨
 
 - 🔭 I’m currently working on few personal projects and contributing to few open source organizations - [CGAL](https://github.com/CGAL/cgal), [tensorflow](https://github.com/tensorflow/tensorflow), & [RDFlib](https://github.com/RDFLib/rdflib). Also, started writing blogs recently, [Check them out !](https://akash-sharma-1.github.io/blog/) 
 - 🌱 I’m currently learning data engineering and designing large, high-performant scalable systems/ cloud-based systems.
-- 👯 I’m looking to collaborate on some great research projects based in DL, NLP and software engineering.
+- 👯 I’m collaborating with some great research labs to work on some really nice contributing publications based in DL, NLP and software engineering.
 
 **About me**
 - 💼 I’m pursuing my undergraduate studies in Computer Science.
