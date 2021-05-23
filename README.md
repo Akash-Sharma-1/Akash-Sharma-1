@@ -37,7 +37,7 @@ Hi, I'm Akash 👋, a programmer, a developer and a CS research-enthusiast. 👨
 - 💼 I’m pursuing my undergraduate studies in Computer Science.
 - 🤔 Presently, my interests (and projects) spans across Deep Learning, Application Development, Semantic Web, Natural Language Processing and Software engineering + maintenance but I'm in pursuit of exploring more domains 😉.
 - 💬 Ask me about anything, happy to help !
-- 📫 Reach me via twitter, telegram, mail ...
+- 📫 Reach me via twitter, telegram, mail ... (Refer to the above social icons :p )
 - 😄 Pronouns: He/Him/His
 - 👀 Check out my [Website](https://www.akashsharma.live/) to get more info.
 - ⚡ Fun fact: My Github Profile has more information about me than my Insta, FB, LinkedIn & other social media combined 😂
