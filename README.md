@@ -24,7 +24,7 @@
 
 Hi, I'm Akash 👋, a programmer, a developer and a CS research-enthusiast. 👨🏻‍💻 I absolutely adore programming and developing new things ⚙. I'm passionate about solving problems through code🚀helping the world🌎 and making the lives of people 👨‍👨‍👧 around me easier!
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
+  <img align="right" alt="GIF" src="http://veronicasicoe.files.wordpress.com/2015/11/f7e0d-nu8baew.gif" />
 
 
 **Current Status Quo**
