@@ -1,19 +1,19 @@
 ### Hi, there! Welcome to my Github Profile 👋
 <div align="center">
 <a href="https://www.akashsharma.live/" target="_blank">
-  <img align="center" alt="'Website" width="22px" height="22px"  src="https://image.flaticon.com/icons/png/512/975/975645.png" />
+  <img align="left" alt="'Website" width="22px" height="22px"  src="https://image.flaticon.com/icons/png/512/975/975645.png" />
 </a>
 <a href="https://twitter.com/AkashTheGreat_1" target="_blank">
-  <img align="center" alt="Twitter" width="22px" height="22px" src="https://image.flaticon.com/icons/png/512/124/124021.png">
+  <img align="left" alt="Twitter" width="22px" height="22px" src="https://image.flaticon.com/icons/png/512/124/124021.png">
 </a>
 <a href="https://www.linkedin.com/in/akash-sharma-246b67165" target="_blank">
-  <img align="center" alt="LinkedIn" width="22px" height="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
+  <img align="left" alt="LinkedIn" width="22px" height="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
 </a>
 <a href="https://t.me/AkashTheGreat" target="_blank">
-  <img align="center" alt="Telegram" width="22px" height="22px" src="https://image.flaticon.com/icons/png/512/2111/2111646.png" />
+  <img align="left" alt="Telegram" width="22px" height="22px" src="https://image.flaticon.com/icons/png/512/2111/2111646.png" />
 </a>
 <a href="mailto:akashthegreatlegend@gmail.com" target="_blank">
-  <img align="center" alt="'Gmail" width="22px" height="22px" src="https://image.flaticon.com/icons/png/512/732/732200.png" />
+  <img align="left" alt="'Gmail" width="22px" height="22px" src="https://image.flaticon.com/icons/png/512/732/732200.png" />
 </a>
 </div>
 
