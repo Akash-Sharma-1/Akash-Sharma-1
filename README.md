@@ -1,6 +1,6 @@
 ### Hi, there! Welcome to my Github Profile 👋
 <div align="center">
-<a href="https://www.akashsharma.live/" target="_blank">
+<a href="https://akash-sharma-1.github.io" target="_blank">
   <img align="left" alt="'Website" width="22px" height="22px"  src="https://image.flaticon.com/icons/png/512/975/975645.png" />
 </a>
 <a href="https://twitter.com/AkashTheGreat_1" target="_blank">
@@ -39,5 +39,5 @@ Hi, I'm Akash 👋, a programmer, a developer and a CS research-enthusiast. 👨
 - 💬 Ask me about anything, happy to help !
 - 📫 Reach me via twitter, telegram, mail ... (Refer to the above social icons :p )
 - 😄 Pronouns: He/Him/His
-- 👀 Check out my [Website](https://www.akashsharma.live/) to get more info.
+- 👀 Check out my [Website](https://akash-sharma-1.github.io) to get more info.
 - ⚡ Fun fact: If I were to become a cyborg, that split fingers thing (in the GIF) would be prioritized
