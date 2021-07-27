@@ -40,4 +40,4 @@ Hi, I'm Akash 👋, a programmer, a developer and a CS research-enthusiast. 👨
 - 📫 Reach me via twitter, telegram, mail ... (Refer to the above social icons :p )
 - 😄 Pronouns: He/Him/His
 - 👀 Check out my [Website](https://akash-sharma-1.github.io) to get more info.
-- ⚡ Fun fact: If I were to become a cyborg, that split fingers thing (in the GIF) would be prioritized
+- ⚡ **Fun fact**: If I were to become a cyborg, that split fingers thing (in the GIF) would be prioritized
