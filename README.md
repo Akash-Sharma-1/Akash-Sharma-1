@@ -35,7 +35,7 @@ Hi, I'm Akash 👋, a programmer, a developer and a CS research-enthusiast. 👨
 
 **About me**
 - 💼 I’m pursuing my undergraduate studies in Computer Science.
-- 🤔 Presently, my interests (and projects) spans across Deep Learning, Application Development, Semantic Web, Natural Language Processing and Software engineering + maintenance but I'm in pursuit of exploring more domains 😉.
+- 🤔 Presently, my interests (and projects) spans across Deep Learning, Application Development, Semantic Web, Natural Language Processing and Software engineering + analysis but I'm in pursuit of exploring more domains 😉.
 - 💬 Ask me about anything, happy to help !
 - 📫 Reach me via twitter, telegram, mail ... (Refer to the above social icons :p )
 - 😄 Pronouns: He/Him/His
