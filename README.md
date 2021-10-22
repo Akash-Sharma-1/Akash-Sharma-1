@@ -40,7 +40,7 @@ Hi, I'm Akash 👋, a programmer, a developer and a CS research-enthusiast. 👨
 - 👯 I’m collaborating with some great research labs & working with them on really exciting publications based in DL, NLP and software engineering.
 
 **About me**
-- 💼 I’m pursuing my undergraduate studies in Computer Science.
+- 💼 I recently completed my undergraduate studies in Computer Science.
 - 🤔 Presently, my interests (and projects) spans across Deep Learning, Application Development, Semantic Web, Natural Language Processing and Software engineering + analysis but I'm in pursuit of exploring more domains 😉.
 - 💬 Ask me about anything, happy to help !
 - 📫 Reach me via twitter, telegram, mail ... (Refer to the above social icons :p )
